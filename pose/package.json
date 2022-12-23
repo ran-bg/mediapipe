@@ -1,5 +1,5 @@
 {
-  "name": "@mediapipe/pose",
+  "name": "mediapipe/pose",
   "version": "0.5.1635988162",
   "description": "Mediapipe Pose Solution",
   "main": "pose.js",
